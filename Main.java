@@ -3,9 +3,7 @@ public class Main {
     private static final String INVALID_VALUE_MESSAGE = "Invalid value";
 
     public static void main(String[] args) {
-        System.out.println(getDurationString(65, 45));
-        System.out.println(getDurationString(3945L));
-        System.out.println(getDurationString(-1));
+        //input the methods here
     }
 
     public static String getDurationString(long minutes, long seconds) {
